@@ -1,0 +1,1700 @@
+Text,Sentiment,#tags,Platform
+This is awesome!,positive,#joy,Twitter
+Worst day ever.,negative,#worst,WhatsApp
+No complaints.,neutral,#soSo,Instagram
+This is awesome!,positive,#awesome,Facebook
+Truly dissatisfied.,negative,#worst,WhatsApp
+It works.,neutral,#soSo,Reddit
+Totally recommend this!,positive,#grateful,WhatsApp
+Would not recommend.,negative,#worst,TikTok
+This is acceptable.,neutral,#indifferent,Twitter
+Couldn't be happier.,positive,#positivevibes,Twitter
+Never buy this product.,negative,#worst,Reddit
+It's okay.,neutral,#indifferent,Instagram
+This is amazing!,positive,#grateful,Facebook
+What a bad experience.,negative,#angry,Reddit
+Feeling neutral.,neutral,#meh,TikTok
+Truly satisfied.,positive,#grateful,Instagram
+Worst day ever.,negative,#disappointed,Twitter
+This is acceptable.,neutral,#neutral,Telegram
+Such a joy to use this.,positive,#joy,LinkedIn
+Feeling negative vibes.,negative,#bad,Snapchat
+This is acceptable.,neutral,#indifferent,Reddit
+Feeling great today.,positive,#blessed,Facebook
+This is terrible.,negative,#worst,Reddit
+So-so experience.,neutral,#indifferent,Facebook
+Totally recommend this!,positive,#positivevibes,LinkedIn
+I hate this.,negative,#fail,Facebook
+It's alright.,neutral,#okay,Telegram
+I love this!,positive,#fantastic,Facebook
+This is terrible.,negative,#angry,Instagram
+This is typical.,neutral,#meh,Twitter
+Best day ever!,positive,#joy,Telegram
+Absolutely awful.,negative,#fail,WhatsApp
+Indifferent about this.,neutral,#normal,LinkedIn
+So happy with the results!,positive,#positivevibes,Snapchat
+Absolutely awful.,negative,#negativevibes,Discord
+It works.,neutral,#fine,Discord
+Highly recommend this product.,positive,#blessed,Telegram
+Such a pain to use this.,negative,#worst,Snapchat
+"Not good, not bad.",neutral,#fine,Telegram
+This makes me smile.,positive,#love,Twitter
+Truly dissatisfied.,negative,#worst,TikTok
+Fairly average.,neutral,#soSo,Telegram
+This is amazing!,positive,#happy,WhatsApp
+Normal day.,neutral,#indifferent,Telegram
+I love this!,positive,#joy,TikTok
+Poor service.,negative,#angry,Snapchat
+Average experience.,neutral,#indifferent,Facebook
+Absolutely wonderful!,positive,#awesome,WhatsApp
+Everything went wrong.,negative,#disappointed,Telegram
+It's okay.,neutral,#okay,LinkedIn
+This is awesome!,positive,#awesome,Snapchat
+So upset with the results.,negative,#frustrated,Snapchat
+Neither like nor dislike.,neutral,#indifferent,Telegram
+I love this!,positive,#blessed,Snapchat
+Feeling negative vibes.,negative,#fail,LinkedIn
+It works.,neutral,#meh,Instagram
+Enjoying every moment.,positive,#joy,Reddit
+Worst day ever.,negative,#frustrated,Facebook
+This is acceptable.,neutral,#neutral,Reddit
+This is amazing!,positive,#awesome,Snapchat
+This is horrible!,negative,#fail,Snapchat
+It's okay.,neutral,#meh,Telegram
+Totally recommend this!,positive,#happy,LinkedIn
+Would not recommend.,negative,#bad,Snapchat
+Indifferent about this.,neutral,#normal,Instagram
+Totally recommend this!,positive,#blessed,TikTok
+I'm very unhappy.,negative,#negativevibes,TikTok
+Normal day.,neutral,#soSo,WhatsApp
+Couldn't be happier.,positive,#love,Discord
+Poor service.,negative,#disappointed,Reddit
+Fairly average.,neutral,#neutral,Telegram
+Totally recommend this!,positive,#blessed,Telegram
+This is terrible.,negative,#disappointed,Reddit
+Average experience.,neutral,#meh,Telegram
+I'm very pleased.,positive,#happy,Discord
+Couldn't be worse.,negative,#negativevibes,Reddit
+Normal day.,neutral,#average,Telegram
+Feeling great today.,positive,#positivevibes,TikTok
+This is terrible.,negative,#angry,WhatsApp
+"Meh, it's fine.",neutral,#average,TikTok
+Couldn't be happier.,positive,#love,Reddit
+Feeling frustrated.,negative,#fail,Telegram
+This is acceptable.,neutral,#indifferent,Telegram
+Absolutely wonderful!,positive,#positivevibes,WhatsApp
+This makes me angry.,negative,#angry,Reddit
+It works.,neutral,#fine,Instagram
+This is amazing!,positive,#joy,Reddit
+So upset with the results.,negative,#worst,Instagram
+This is typical.,neutral,#normal,TikTok
+Couldn't be happier.,positive,#blessed,LinkedIn
+This makes me angry.,negative,#disappointed,Facebook
+This is acceptable.,neutral,#average,Telegram
+This makes me smile.,positive,#joy,WhatsApp
+Couldn't be worse.,negative,#disappointed,Discord
+This is standard.,neutral,#average,Reddit
+Best day ever!,positive,#positivevibes,TikTok
+Worst day ever.,negative,#worst,Snapchat
+Nothing special.,neutral,#fine,Discord
+Totally recommend this!,positive,#joy,Facebook
+This is horrible!,negative,#worst,Instagram
+Nothing to report.,neutral,#meh,Snapchat
+Such a joy to use this.,positive,#joy,Facebook
+Truly dissatisfied.,negative,#sad,Reddit
+It works.,neutral,#normal,TikTok
+Feeling great today.,positive,#happy,Telegram
+Couldn't be worse.,negative,#disappointed,Instagram
+It's okay.,neutral,#neutral,Twitter
+I love this!,positive,#positivevibes,TikTok
+So upset with the results.,negative,#negativevibes,WhatsApp
+Neither like nor dislike.,neutral,#neutral,Reddit
+This is amazing!,positive,#positivevibes,WhatsApp
+Feeling frustrated.,negative,#negativevibes,Reddit
+Feeling neutral.,neutral,#fine,Facebook
+Truly satisfied.,positive,#grateful,Discord
+Absolutely awful.,negative,#fail,Discord
+This is standard.,neutral,#neutral,Discord
+This is amazing!,positive,#love,Twitter
+Such a pain to use this.,negative,#angry,Snapchat
+This is acceptable.,neutral,#indifferent,LinkedIn
+What a fantastic experience.,positive,#grateful,Snapchat
+Very disappointed.,negative,#bad,Telegram
+It works.,neutral,#okay,Telegram
+Everything is perfect.,positive,#joy,TikTok
+Simply the worst.,negative,#disappointed,LinkedIn
+It's okay.,neutral,#fine,Instagram
+Highly recommend this product.,positive,#grateful,Reddit
+Such a pain to use this.,negative,#negativevibes,Instagram
+Nothing special.,neutral,#normal,TikTok
+Such a joy to use this.,positive,#fantastic,LinkedIn
+Simply the worst.,negative,#fail,Instagram
+I have no strong feelings.,neutral,#okay,Snapchat
+Feeling great today.,positive,#awesome,LinkedIn
+Feeling frustrated.,negative,#bad,LinkedIn
+Neither like nor dislike.,neutral,#normal,Facebook
+Absolutely wonderful!,positive,#love,Twitter
+Truly dissatisfied.,negative,#negativevibes,Instagram
+This is typical.,neutral,#okay,Telegram
+This is awesome!,positive,#happy,Twitter
+Everything went wrong.,negative,#disappointed,Twitter
+This is acceptable.,neutral,#indifferent,Discord
+Such a joy to use this.,positive,#positivevibes,Telegram
+Absolutely awful.,negative,#sad,LinkedIn
+Average experience.,neutral,#okay,Reddit
+Truly satisfied.,positive,#fantastic,LinkedIn
+Never buy this product.,negative,#fail,WhatsApp
+This is typical.,neutral,#average,TikTok
+Highly recommend this product.,positive,#blessed,TikTok
+Poor service.,negative,#negativevibes,LinkedIn
+Neither like nor dislike.,neutral,#average,Twitter
+Best day ever!,positive,#blessed,WhatsApp
+So upset with the results.,negative,#angry,Facebook
+I have no strong feelings.,neutral,#indifferent,Telegram
+Truly satisfied.,positive,#positivevibes,TikTok
+I'm very unhappy.,negative,#sad,LinkedIn
+Indifferent about this.,neutral,#okay,LinkedIn
+I'm very pleased.,positive,#awesome,WhatsApp
+This makes me angry.,negative,#frustrated,Twitter
+Fairly average.,neutral,#okay,Twitter
+I love this!,positive,#fantastic,Instagram
+Couldn't be worse.,negative,#bad,Facebook
+It's alright.,neutral,#soSo,Instagram
+Best day ever!,positive,#grateful,TikTok
+I hate this.,negative,#bad,WhatsApp
+Neither like nor dislike.,neutral,#fine,Twitter
+I love this!,positive,#love,Twitter
+What a bad experience.,negative,#frustrated,Twitter
+It's okay.,neutral,#neutral,WhatsApp
+Truly satisfied.,positive,#awesome,WhatsApp
+Simply the worst.,negative,#frustrated,Instagram
+Nothing special.,neutral,#meh,Facebook
+Such a joy to use this.,positive,#joy,Discord
+I'm very unhappy.,negative,#sad,Twitter
+"Meh, it's fine.",neutral,#fine,LinkedIn
+Absolutely wonderful!,positive,#positivevibes,Instagram
+Such a pain to use this.,negative,#sad,Facebook
+Nothing to report.,neutral,#normal,Facebook
+I'm very unhappy.,negative,#disappointed,TikTok
+It's alright.,neutral,#normal,LinkedIn
+Feeling positive vibes.,positive,#grateful,Twitter
+Such a pain to use this.,negative,#frustrated,Snapchat
+Average experience.,neutral,#indifferent,Twitter
+Feeling positive vibes.,positive,#positivevibes,Telegram
+Such a pain to use this.,negative,#fail,TikTok
+"Meh, it's fine.",neutral,#neutral,Instagram
+Truly satisfied.,positive,#blessed,Discord
+Poor service.,negative,#fail,LinkedIn
+Normal day.,neutral,#soSo,LinkedIn
+This is amazing!,positive,#awesome,Telegram
+Never buy this product.,negative,#angry,Reddit
+Feeling neutral.,neutral,#normal,LinkedIn
+Feeling great today.,positive,#positivevibes,Instagram
+Everything went wrong.,negative,#bad,Telegram
+So-so experience.,neutral,#okay,Facebook
+I love this!,positive,#positivevibes,Instagram
+Poor service.,negative,#worst,Facebook
+This is acceptable.,neutral,#meh,Discord
+Enjoying every moment.,positive,#love,Discord
+Nothing special.,neutral,#average,Instagram
+This makes me smile.,positive,#love,Reddit
+This makes me angry.,negative,#frustrated,Snapchat
+So-so experience.,neutral,#indifferent,Telegram
+Feeling positive vibes.,positive,#positivevibes,WhatsApp
+"Not good, not bad.",neutral,#neutral,Facebook
+Excellent service.,positive,#awesome,WhatsApp
+Poor service.,negative,#frustrated,WhatsApp
+Indifferent about this.,neutral,#neutral,Reddit
+Everything is perfect.,positive,#love,TikTok
+Feeling negative vibes.,negative,#worst,Snapchat
+Average experience.,neutral,#soSo,Twitter
+Feeling positive vibes.,positive,#awesome,Twitter
+Feeling negative vibes.,negative,#disappointed,Snapchat
+Simply the worst.,negative,#frustrated,Snapchat
+Indifferent about this.,neutral,#indifferent,TikTok
+Truly satisfied.,positive,#blessed,Instagram
+Everything went wrong.,negative,#worst,Discord
+Just another day.,neutral,#indifferent,LinkedIn
+This is amazing!,positive,#fantastic,Facebook
+I'm very unhappy.,negative,#disappointed,Discord
+Nothing special.,neutral,#meh,Instagram
+Truly satisfied.,positive,#love,WhatsApp
+Simply the best.,positive,#fantastic,WhatsApp
+I'm very unhappy.,negative,#disappointed,LinkedIn
+Simply the best.,positive,#joy,LinkedIn
+What a bad experience.,negative,#fail,TikTok
+I have no strong feelings.,neutral,#meh,Snapchat
+Feeling positive vibes.,positive,#happy,Twitter
+Couldn't be worse.,negative,#worst,WhatsApp
+Neither like nor dislike.,neutral,#normal,TikTok
+Absolutely wonderful!,positive,#grateful,Telegram
+This is horrible!,negative,#angry,Facebook
+No complaints.,neutral,#fine,Snapchat
+Excellent service.,positive,#love,Reddit
+Very disappointed.,negative,#bad,Facebook
+This is typical.,neutral,#meh,Telegram
+This is awesome!,positive,#blessed,Twitter
+Worst day ever.,negative,#bad,TikTok
+Nothing to report.,neutral,#neutral,Discord
+This is amazing!,positive,#love,WhatsApp
+This makes me angry.,negative,#disappointed,Discord
+No complaints.,neutral,#fine,Twitter
+This makes me smile.,positive,#blessed,Discord
+Truly dissatisfied.,negative,#fail,Reddit
+Feeling neutral.,neutral,#normal,Discord
+Such a joy to use this.,positive,#blessed,WhatsApp
+I hate this.,negative,#sad,LinkedIn
+Normal day.,neutral,#indifferent,WhatsApp
+Truly satisfied.,positive,#happy,Facebook
+Never buy this product.,negative,#bad,Snapchat
+It's okay.,neutral,#meh,Instagram
+Enjoying every moment.,positive,#fantastic,WhatsApp
+This is standard.,neutral,#indifferent,Twitter
+So happy with the results!,positive,#happy,Instagram
+Truly dissatisfied.,negative,#bad,Twitter
+I have no strong feelings.,neutral,#soSo,Twitter
+Everything is perfect.,positive,#fantastic,LinkedIn
+Couldn't be worse.,negative,#fail,Twitter
+It works.,neutral,#okay,Twitter
+This is horrible!,negative,#disappointed,Twitter
+Feeling neutral.,neutral,#indifferent,WhatsApp
+Truly satisfied.,positive,#joy,Discord
+Feeling negative vibes.,negative,#worst,Facebook
+"Meh, it's fine.",neutral,#soSo,Instagram
+I'm very pleased.,positive,#blessed,Instagram
+This is horrible!,negative,#sad,Twitter
+Normal day.,neutral,#okay,Telegram
+Simply the best.,positive,#joy,Instagram
+Such a pain to use this.,negative,#frustrated,Instagram
+"Not good, not bad.",neutral,#soSo,TikTok
+Excellent service.,positive,#grateful,TikTok
+So upset with the results.,negative,#bad,Discord
+This is typical.,neutral,#neutral,Telegram
+Feeling great today.,positive,#love,Snapchat
+This makes me angry.,negative,#sad,Telegram
+Nothing to report.,neutral,#average,Instagram
+Excellent service.,positive,#positivevibes,Twitter
+Would not recommend.,negative,#worst,WhatsApp
+It's okay.,neutral,#fine,Telegram
+Highly recommend this product.,positive,#fantastic,Discord
+This is horrible!,negative,#angry,WhatsApp
+It's okay.,neutral,#fine,LinkedIn
+Totally recommend this!,positive,#awesome,WhatsApp
+Truly dissatisfied.,negative,#disappointed,Discord
+Fairly average.,neutral,#okay,Discord
+What a fantastic experience.,positive,#grateful,Facebook
+Such a pain to use this.,negative,#fail,LinkedIn
+It's alright.,neutral,#indifferent,Twitter
+What a bad experience.,negative,#bad,TikTok
+Just another day.,neutral,#soSo,Facebook
+Feeling great today.,positive,#joy,WhatsApp
+Everything went wrong.,negative,#fail,Facebook
+Normal day.,neutral,#normal,Instagram
+Absolutely wonderful!,positive,#fantastic,LinkedIn
+Such a pain to use this.,negative,#worst,Telegram
+"Meh, it's fine.",neutral,#average,LinkedIn
+Excellent service.,positive,#joy,Facebook
+Nothing to report.,neutral,#soSo,Discord
+Feeling great today.,positive,#grateful,Reddit
+What a bad experience.,negative,#frustrated,LinkedIn
+Feeling great today.,positive,#fantastic,Discord
+This is terrible.,negative,#frustrated,Discord
+This is acceptable.,neutral,#neutral,Snapchat
+This makes me smile.,positive,#positivevibes,Reddit
+Couldn't be worse.,negative,#fail,Telegram
+Normal day.,neutral,#neutral,TikTok
+This is awesome!,positive,#happy,Discord
+Poor service.,negative,#sad,Instagram
+Nothing to report.,neutral,#soSo,WhatsApp
+Absolutely wonderful!,positive,#love,Facebook
+I'm very unhappy.,negative,#disappointed,Telegram
+It works.,neutral,#okay,Instagram
+Feeling positive vibes.,positive,#positivevibes,Instagram
+Absolutely awful.,negative,#frustrated,LinkedIn
+No complaints.,neutral,#okay,LinkedIn
+So happy with the results!,positive,#fantastic,Discord
+Couldn't be worse.,negative,#worst,Facebook
+It works.,neutral,#neutral,Reddit
+Such a joy to use this.,positive,#happy,Facebook
+This makes me angry.,negative,#worst,Facebook
+"Meh, it's fine.",neutral,#meh,Reddit
+Simply the best.,positive,#joy,WhatsApp
+Truly dissatisfied.,negative,#fail,Snapchat
+This is acceptable.,neutral,#meh,Snapchat
+This makes me smile.,positive,#awesome,Discord
+I hate this.,negative,#worst,Snapchat
+This is typical.,neutral,#meh,WhatsApp
+Feeling positive vibes.,positive,#positivevibes,Discord
+Never buy this product.,negative,#negativevibes,Twitter
+Nothing special.,neutral,#okay,Reddit
+Excellent service.,positive,#love,Facebook
+Average experience.,neutral,#fine,Telegram
+This is awesome!,positive,#grateful,LinkedIn
+I hate this.,negative,#sad,Reddit
+This is acceptable.,neutral,#indifferent,TikTok
+Enjoying every moment.,positive,#grateful,Snapchat
+Truly dissatisfied.,negative,#frustrated,WhatsApp
+Feeling neutral.,neutral,#okay,Telegram
+This is awesome!,positive,#love,LinkedIn
+Poor service.,negative,#worst,Reddit
+So-so experience.,neutral,#soSo,Facebook
+Feeling great today.,positive,#happy,Instagram
+So upset with the results.,negative,#disappointed,Facebook
+I have no strong feelings.,neutral,#normal,Twitter
+This is amazing!,positive,#blessed,Telegram
+Such a pain to use this.,negative,#negativevibes,Snapchat
+It's alright.,neutral,#soSo,TikTok
+Excellent service.,positive,#fantastic,WhatsApp
+Truly dissatisfied.,negative,#bad,TikTok
+Feeling neutral.,neutral,#normal,WhatsApp
+Totally recommend this!,positive,#grateful,LinkedIn
+Such a pain to use this.,negative,#sad,Snapchat
+"Not good, not bad.",neutral,#okay,Reddit
+Such a joy to use this.,positive,#happy,Instagram
+Very disappointed.,negative,#disappointed,Instagram
+Neither like nor dislike.,neutral,#fine,LinkedIn
+This makes me smile.,positive,#positivevibes,Snapchat
+Very disappointed.,negative,#negativevibes,Telegram
+It's alright.,neutral,#indifferent,Discord
+I love this!,positive,#positivevibes,Twitter
+I'm very unhappy.,negative,#sad,WhatsApp
+This is amazing!,positive,#love,Snapchat
+Never buy this product.,negative,#angry,Facebook
+This is typical.,neutral,#neutral,Discord
+I love this!,positive,#blessed,Facebook
+Very disappointed.,negative,#bad,LinkedIn
+It's okay.,neutral,#average,Instagram
+Highly recommend this product.,positive,#blessed,Facebook
+Everything went wrong.,negative,#worst,Telegram
+No complaints.,neutral,#indifferent,Facebook
+This is awesome!,positive,#joy,Reddit
+Poor service.,negative,#disappointed,Instagram
+It's alright.,neutral,#neutral,Instagram
+Feeling positive vibes.,positive,#grateful,Discord
+Simply the worst.,negative,#negativevibes,Twitter
+Feeling neutral.,neutral,#fine,Telegram
+This is amazing!,positive,#love,Discord
+Couldn't be worse.,negative,#sad,WhatsApp
+Nothing special.,neutral,#average,Telegram
+Feeling positive vibes.,positive,#grateful,Reddit
+Feeling negative vibes.,negative,#frustrated,LinkedIn
+Feeling neutral.,neutral,#average,LinkedIn
+Highly recommend this product.,positive,#positivevibes,Facebook
+Simply the worst.,negative,#worst,Telegram
+So-so experience.,neutral,#average,Instagram
+Couldn't be happier.,positive,#blessed,Twitter
+This is terrible.,negative,#worst,TikTok
+Nothing to report.,neutral,#fine,Snapchat
+Enjoying every moment.,positive,#happy,Discord
+Worst day ever.,negative,#sad,Facebook
+"Not good, not bad.",neutral,#normal,Reddit
+Couldn't be happier.,positive,#joy,Facebook
+This is terrible.,negative,#fail,Telegram
+It's alright.,neutral,#average,Twitter
+This makes me smile.,positive,#fantastic,Facebook
+Feeling negative vibes.,negative,#sad,Reddit
+This is typical.,neutral,#indifferent,Telegram
+So happy with the results!,positive,#love,Discord
+Truly dissatisfied.,negative,#frustrated,Facebook
+Neither like nor dislike.,neutral,#meh,Telegram
+Totally recommend this!,positive,#awesome,Snapchat
+I hate this.,negative,#bad,LinkedIn
+Normal day.,neutral,#normal,WhatsApp
+Best day ever!,positive,#happy,Instagram
+Very disappointed.,negative,#negativevibes,LinkedIn
+No complaints.,neutral,#average,LinkedIn
+I love this!,positive,#happy,Twitter
+Never buy this product.,negative,#sad,Reddit
+Nothing special.,neutral,#soSo,Telegram
+What a fantastic experience.,positive,#grateful,Telegram
+This is horrible!,negative,#bad,Twitter
+"Meh, it's fine.",neutral,#average,Facebook
+Excellent service.,positive,#love,Snapchat
+Feeling frustrated.,negative,#disappointed,Discord
+Fairly average.,neutral,#normal,Instagram
+What a fantastic experience.,positive,#love,TikTok
+Feeling frustrated.,negative,#bad,Reddit
+This is acceptable.,neutral,#soSo,Instagram
+Highly recommend this product.,positive,#grateful,WhatsApp
+Truly dissatisfied.,negative,#fail,TikTok
+This is typical.,neutral,#neutral,Twitter
+Enjoying every moment.,positive,#fantastic,Reddit
+What a bad experience.,negative,#negativevibes,Instagram
+Just another day.,neutral,#fine,Snapchat
+Highly recommend this product.,positive,#love,Instagram
+Such a pain to use this.,negative,#bad,TikTok
+It's alright.,neutral,#neutral,Discord
+This is awesome!,positive,#fantastic,Telegram
+Absolutely awful.,negative,#sad,Telegram
+It's okay.,neutral,#neutral,Instagram
+I love this!,positive,#grateful,WhatsApp
+Such a pain to use this.,negative,#disappointed,Discord
+Indifferent about this.,neutral,#average,LinkedIn
+This is terrible.,negative,#negativevibes,LinkedIn
+So-so experience.,neutral,#indifferent,TikTok
+I'm very pleased.,positive,#positivevibes,Discord
+Would not recommend.,negative,#disappointed,Instagram
+I have no strong feelings.,neutral,#fine,LinkedIn
+I'm very pleased.,positive,#positivevibes,Snapchat
+Such a pain to use this.,negative,#negativevibes,WhatsApp
+"Not good, not bad.",neutral,#indifferent,WhatsApp
+What a fantastic experience.,positive,#love,Twitter
+Normal day.,neutral,#neutral,Snapchat
+Absolutely wonderful!,positive,#love,TikTok
+I hate this.,negative,#sad,WhatsApp
+Highly recommend this product.,positive,#fantastic,TikTok
+This is horrible!,negative,#disappointed,WhatsApp
+"Meh, it's fine.",neutral,#soSo,Facebook
+This is terrible.,negative,#fail,Facebook
+Feeling positive vibes.,positive,#positivevibes,LinkedIn
+Absolutely awful.,negative,#frustrated,Facebook
+Fairly average.,neutral,#okay,WhatsApp
+Such a joy to use this.,positive,#happy,Snapchat
+Very disappointed.,negative,#angry,Facebook
+Indifferent about this.,neutral,#normal,TikTok
+Excellent service.,positive,#happy,LinkedIn
+Very disappointed.,negative,#negativevibes,Discord
+It works.,neutral,#average,Reddit
+Absolutely wonderful!,positive,#love,Instagram
+Feeling neutral.,neutral,#okay,Instagram
+Feeling frustrated.,negative,#sad,WhatsApp
+This is standard.,neutral,#meh,Facebook
+Everything is perfect.,positive,#love,Instagram
+This is horrible!,negative,#negativevibes,Instagram
+This is acceptable.,neutral,#neutral,Facebook
+Feeling great today.,positive,#blessed,Snapchat
+Absolutely awful.,negative,#disappointed,Instagram
+Neither like nor dislike.,neutral,#normal,LinkedIn
+Everything is perfect.,positive,#fantastic,Discord
+Neither like nor dislike.,neutral,#indifferent,LinkedIn
+Simply the best.,positive,#joy,Facebook
+This is horrible!,negative,#frustrated,Telegram
+Neither like nor dislike.,neutral,#average,Facebook
+Best day ever!,positive,#happy,WhatsApp
+Very disappointed.,negative,#angry,Telegram
+Indifferent about this.,neutral,#meh,Facebook
+Enjoying every moment.,positive,#blessed,Telegram
+Simply the worst.,negative,#bad,Discord
+So-so experience.,neutral,#neutral,Discord
+So happy with the results!,positive,#joy,Reddit
+Simply the worst.,negative,#disappointed,Snapchat
+"Not good, not bad.",neutral,#soSo,Twitter
+This makes me smile.,positive,#grateful,WhatsApp
+So upset with the results.,negative,#sad,Reddit
+Just another day.,neutral,#indifferent,Discord
+Such a joy to use this.,positive,#joy,WhatsApp
+This is horrible!,negative,#bad,Snapchat
+I have no strong feelings.,neutral,#soSo,TikTok
+I hate this.,negative,#angry,TikTok
+Average experience.,neutral,#neutral,TikTok
+So happy with the results!,positive,#love,Twitter
+Poor service.,negative,#worst,Instagram
+"Not good, not bad.",neutral,#indifferent,Facebook
+Feeling positive vibes.,positive,#fantastic,Discord
+Such a pain to use this.,negative,#negativevibes,Telegram
+I have no strong feelings.,neutral,#normal,Facebook
+Enjoying every moment.,positive,#blessed,Twitter
+So upset with the results.,negative,#sad,LinkedIn
+It's okay.,neutral,#fine,Reddit
+Couldn't be worse.,negative,#worst,Instagram
+This is terrible.,negative,#worst,WhatsApp
+I have no strong feelings.,neutral,#meh,Discord
+Everything is perfect.,positive,#awesome,Reddit
+Absolutely awful.,negative,#fail,Snapchat
+This is standard.,neutral,#average,Facebook
+Feeling negative vibes.,negative,#angry,TikTok
+Couldn't be happier.,positive,#blessed,Telegram
+I'm very unhappy.,negative,#disappointed,WhatsApp
+I have no strong feelings.,neutral,#indifferent,WhatsApp
+Excellent service.,positive,#joy,WhatsApp
+Everything went wrong.,negative,#worst,Instagram
+Just another day.,neutral,#meh,Discord
+I love this!,positive,#blessed,Instagram
+This is horrible!,negative,#worst,TikTok
+Neither like nor dislike.,neutral,#average,Telegram
+Feeling positive vibes.,positive,#positivevibes,Facebook
+This is terrible.,negative,#negativevibes,Reddit
+Just another day.,neutral,#soSo,Instagram
+Feeling great today.,positive,#awesome,Instagram
+I hate this.,negative,#disappointed,WhatsApp
+Indifferent about this.,neutral,#okay,Snapchat
+This is amazing!,positive,#grateful,WhatsApp
+So upset with the results.,negative,#sad,Instagram
+It's okay.,neutral,#soSo,Telegram
+Totally recommend this!,positive,#happy,Twitter
+So upset with the results.,negative,#angry,LinkedIn
+Feeling neutral.,neutral,#okay,Discord
+Enjoying every moment.,positive,#love,LinkedIn
+So upset with the results.,negative,#frustrated,Instagram
+Nothing to report.,neutral,#average,Facebook
+Excellent service.,positive,#blessed,Telegram
+I hate this.,negative,#frustrated,Facebook
+It's okay.,neutral,#indifferent,Telegram
+I'm very pleased.,positive,#happy,Reddit
+Such a pain to use this.,negative,#frustrated,LinkedIn
+Fairly average.,neutral,#fine,LinkedIn
+Feeling great today.,positive,#love,Reddit
+So upset with the results.,negative,#bad,Snapchat
+I have no strong feelings.,neutral,#okay,Reddit
+Truly satisfied.,positive,#positivevibes,Snapchat
+Never buy this product.,negative,#sad,Snapchat
+It works.,neutral,#soSo,TikTok
+Couldn't be happier.,positive,#joy,Discord
+Simply the worst.,negative,#worst,TikTok
+This is standard.,neutral,#meh,Instagram
+Best day ever!,positive,#joy,Discord
+Poor service.,negative,#fail,Facebook
+Neither like nor dislike.,neutral,#fine,Telegram
+This is amazing!,positive,#happy,Telegram
+Poor service.,negative,#fail,Telegram
+Normal day.,neutral,#average,Instagram
+This is awesome!,positive,#grateful,WhatsApp
+Would not recommend.,negative,#frustrated,Reddit
+Neither like nor dislike.,neutral,#okay,Instagram
+This makes me smile.,positive,#fantastic,Telegram
+Simply the worst.,negative,#worst,Twitter
+"Not good, not bad.",neutral,#fine,WhatsApp
+This is awesome!,positive,#love,Instagram
+Such a pain to use this.,negative,#fail,Discord
+I have no strong feelings.,neutral,#average,TikTok
+Totally recommend this!,positive,#fantastic,LinkedIn
+I'm very unhappy.,negative,#frustrated,TikTok
+"Not good, not bad.",neutral,#average,Telegram
+Feeling positive vibes.,positive,#fantastic,Telegram
+This is acceptable.,neutral,#average,WhatsApp
+Best day ever!,positive,#fantastic,Snapchat
+What a bad experience.,negative,#sad,Discord
+It's alright.,neutral,#soSo,Facebook
+Totally recommend this!,positive,#joy,LinkedIn
+Truly dissatisfied.,negative,#fail,Twitter
+Average experience.,neutral,#fine,WhatsApp
+Simply the best.,positive,#positivevibes,LinkedIn
+Never buy this product.,negative,#angry,WhatsApp
+"Not good, not bad.",neutral,#okay,WhatsApp
+This makes me smile.,positive,#happy,Reddit
+I'm very unhappy.,negative,#negativevibes,Telegram
+This is typical.,neutral,#neutral,Reddit
+Such a joy to use this.,positive,#happy,Discord
+Poor service.,negative,#sad,Snapchat
+Average experience.,neutral,#meh,Discord
+Couldn't be happier.,positive,#happy,Instagram
+This is terrible.,negative,#angry,Discord
+Nothing special.,neutral,#normal,LinkedIn
+Worst day ever.,negative,#angry,Twitter
+Normal day.,neutral,#meh,LinkedIn
+Worst day ever.,negative,#negativevibes,WhatsApp
+No complaints.,neutral,#okay,Reddit
+This is terrible.,negative,#disappointed,LinkedIn
+Just another day.,neutral,#indifferent,Twitter
+I'm very pleased.,positive,#blessed,Snapchat
+Such a pain to use this.,negative,#angry,TikTok
+Nothing to report.,neutral,#normal,LinkedIn
+Excellent service.,positive,#blessed,Discord
+Poor service.,negative,#negativevibes,Reddit
+This is standard.,neutral,#fine,TikTok
+Everything is perfect.,positive,#grateful,WhatsApp
+This is horrible!,negative,#worst,Discord
+This is acceptable.,neutral,#normal,Discord
+I love this!,positive,#love,WhatsApp
+Very disappointed.,negative,#frustrated,Snapchat
+Couldn't be happier.,positive,#positivevibes,Telegram
+Couldn't be happier.,positive,#positivevibes,Facebook
+Just another day.,neutral,#soSo,Discord
+Best day ever!,positive,#grateful,Twitter
+Worst day ever.,negative,#disappointed,Reddit
+Neither like nor dislike.,neutral,#soSo,LinkedIn
+This is amazing!,positive,#fantastic,Instagram
+Absolutely awful.,negative,#worst,Twitter
+"Not good, not bad.",neutral,#meh,LinkedIn
+Everything is perfect.,positive,#awesome,TikTok
+This makes me angry.,negative,#worst,TikTok
+Average experience.,neutral,#normal,TikTok
+Totally recommend this!,positive,#happy,Facebook
+Couldn't be worse.,negative,#fail,LinkedIn
+Just another day.,neutral,#meh,Instagram
+I'm very pleased.,positive,#positivevibes,Reddit
+Everything went wrong.,negative,#fail,Discord
+Nothing special.,neutral,#fine,Facebook
+Everything is perfect.,positive,#grateful,Instagram
+Nothing to report.,neutral,#normal,Telegram
+So happy with the results!,positive,#joy,Twitter
+This is horrible!,negative,#negativevibes,Facebook
+It works.,neutral,#indifferent,Discord
+This makes me smile.,positive,#love,LinkedIn
+Feeling negative vibes.,negative,#bad,Twitter
+Feeling neutral.,neutral,#soSo,Telegram
+Absolutely wonderful!,positive,#positivevibes,Reddit
+Would not recommend.,negative,#worst,Telegram
+This is acceptable.,neutral,#fine,Instagram
+This is amazing!,positive,#grateful,Telegram
+This is horrible!,negative,#worst,Snapchat
+"Meh, it's fine.",neutral,#indifferent,Facebook
+Simply the best.,positive,#fantastic,Instagram
+I'm very unhappy.,negative,#bad,LinkedIn
+"Not good, not bad.",neutral,#indifferent,Snapchat
+Enjoying every moment.,positive,#joy,Snapchat
+This is terrible.,negative,#fail,Instagram
+It's okay.,neutral,#normal,Reddit
+What a bad experience.,negative,#frustrated,Snapchat
+It's alright.,neutral,#soSo,Telegram
+Best day ever!,positive,#fantastic,Reddit
+Absolutely awful.,negative,#worst,Reddit
+I have no strong feelings.,neutral,#fine,Twitter
+Poor service.,negative,#worst,LinkedIn
+"Meh, it's fine.",neutral,#okay,Telegram
+Highly recommend this product.,positive,#joy,Facebook
+It's alright.,neutral,#normal,Snapchat
+Couldn't be happier.,positive,#grateful,WhatsApp
+Simply the worst.,negative,#frustrated,TikTok
+Nothing to report.,neutral,#indifferent,Reddit
+Enjoying every moment.,positive,#awesome,Reddit
+Worst day ever.,negative,#sad,Snapchat
+This is acceptable.,neutral,#fine,Discord
+So happy with the results!,positive,#grateful,TikTok
+So upset with the results.,negative,#fail,Facebook
+"Meh, it's fine.",neutral,#normal,Twitter
+Never buy this product.,negative,#frustrated,Instagram
+Just another day.,neutral,#average,Twitter
+Feeling frustrated.,negative,#negativevibes,Discord
+Absolutely wonderful!,positive,#blessed,Instagram
+This is standard.,neutral,#fine,Twitter
+Excellent service.,positive,#positivevibes,Discord
+I'm very unhappy.,negative,#angry,Twitter
+Best day ever!,positive,#happy,Snapchat
+Never buy this product.,negative,#fail,LinkedIn
+Truly dissatisfied.,negative,#fail,Telegram
+Fairly average.,neutral,#meh,TikTok
+Everything is perfect.,positive,#fantastic,TikTok
+Very disappointed.,negative,#angry,Instagram
+Average experience.,neutral,#fine,Instagram
+Enjoying every moment.,positive,#love,Telegram
+I have no strong feelings.,neutral,#average,Instagram
+Absolutely wonderful!,positive,#fantastic,Twitter
+Such a pain to use this.,negative,#disappointed,TikTok
+Indifferent about this.,neutral,#average,Discord
+I'm very pleased.,positive,#joy,Instagram
+Very disappointed.,negative,#disappointed,Telegram
+No complaints.,neutral,#meh,Reddit
+Truly satisfied.,positive,#positivevibes,Reddit
+Couldn't be worse.,negative,#frustrated,Facebook
+Average experience.,neutral,#normal,LinkedIn
+This is amazing!,positive,#happy,Snapchat
+It's alright.,neutral,#meh,Discord
+Simply the best.,positive,#joy,Snapchat
+Such a pain to use this.,negative,#bad,Instagram
+This is amazing!,positive,#happy,Facebook
+Couldn't be worse.,negative,#worst,Telegram
+Feeling neutral.,neutral,#meh,Twitter
+Couldn't be worse.,negative,#disappointed,Facebook
+It's alright.,neutral,#soSo,Twitter
+I'm very pleased.,positive,#joy,TikTok
+Never buy this product.,negative,#bad,TikTok
+Fairly average.,neutral,#okay,Telegram
+Never buy this product.,negative,#angry,Twitter
+Indifferent about this.,neutral,#fine,Telegram
+Totally recommend this!,positive,#joy,Snapchat
+Poor service.,negative,#angry,Facebook
+This is typical.,neutral,#neutral,Instagram
+Feeling great today.,positive,#blessed,Telegram
+Feeling frustrated.,negative,#angry,Instagram
+Just another day.,neutral,#meh,LinkedIn
+Everything is perfect.,positive,#blessed,Telegram
+This is horrible!,negative,#fail,LinkedIn
+So happy with the results!,positive,#happy,WhatsApp
+Truly dissatisfied.,negative,#negativevibes,Snapchat
+So happy with the results!,positive,#happy,Telegram
+Never buy this product.,negative,#bad,Reddit
+So-so experience.,neutral,#average,Discord
+Feeling great today.,positive,#joy,Instagram
+Such a pain to use this.,negative,#sad,Instagram
+Such a joy to use this.,positive,#happy,Telegram
+Worst day ever.,negative,#negativevibes,Snapchat
+Feeling great today.,positive,#grateful,Discord
+What a bad experience.,negative,#sad,TikTok
+It's alright.,neutral,#indifferent,Telegram
+What a fantastic experience.,positive,#blessed,Discord
+I have no strong feelings.,neutral,#average,Facebook
+Couldn't be happier.,positive,#joy,Telegram
+This makes me angry.,negative,#worst,LinkedIn
+Indifferent about this.,neutral,#neutral,Snapchat
+This is amazing!,positive,#fantastic,WhatsApp
+Poor service.,negative,#frustrated,Discord
+It works.,neutral,#indifferent,Telegram
+Totally recommend this!,positive,#grateful,Facebook
+Simply the worst.,negative,#worst,Facebook
+This is standard.,neutral,#indifferent,Instagram
+Feeling positive vibes.,positive,#grateful,Telegram
+Such a pain to use this.,negative,#sad,LinkedIn
+Indifferent about this.,neutral,#fine,LinkedIn
+Highly recommend this product.,positive,#fantastic,Reddit
+Such a pain to use this.,negative,#disappointed,Snapchat
+Fairly average.,neutral,#average,TikTok
+Such a joy to use this.,positive,#awesome,Facebook
+I hate this.,negative,#disappointed,Snapchat
+Normal day.,neutral,#neutral,Twitter
+What a bad experience.,negative,#frustrated,Discord
+This is standard.,neutral,#fine,WhatsApp
+Such a joy to use this.,positive,#awesome,Twitter
+This makes me angry.,negative,#sad,WhatsApp
+What a fantastic experience.,positive,#grateful,Twitter
+So upset with the results.,negative,#fail,LinkedIn
+"Meh, it's fine.",neutral,#average,Snapchat
+Would not recommend.,negative,#fail,Instagram
+Normal day.,neutral,#average,Twitter
+This is amazing!,positive,#blessed,Twitter
+Feeling frustrated.,negative,#worst,Telegram
+I have no strong feelings.,neutral,#okay,WhatsApp
+So happy with the results!,positive,#positivevibes,Twitter
+Normal day.,neutral,#average,Discord
+This makes me smile.,positive,#happy,LinkedIn
+Nothing to report.,neutral,#average,Reddit
+Excellent service.,positive,#awesome,TikTok
+"Not good, not bad.",neutral,#normal,Instagram
+Truly satisfied.,positive,#blessed,Facebook
+No complaints.,neutral,#average,Discord
+I love this!,positive,#love,Discord
+This makes me angry.,negative,#sad,LinkedIn
+This is typical.,neutral,#average,Twitter
+Excellent service.,positive,#awesome,Reddit
+Feeling frustrated.,negative,#sad,Telegram
+This is acceptable.,neutral,#fine,Snapchat
+This makes me angry.,negative,#disappointed,WhatsApp
+Nothing special.,neutral,#neutral,Twitter
+Worst day ever.,negative,#frustrated,TikTok
+Nothing to report.,neutral,#soSo,Reddit
+Everything went wrong.,negative,#fail,Snapchat
+"Not good, not bad.",neutral,#neutral,TikTok
+Excellent service.,positive,#blessed,WhatsApp
+Worst day ever.,negative,#sad,TikTok
+"Not good, not bad.",neutral,#average,Facebook
+This is awesome!,positive,#joy,Instagram
+This is horrible!,negative,#negativevibes,Telegram
+I have no strong feelings.,neutral,#indifferent,Snapchat
+What a fantastic experience.,positive,#happy,Twitter
+Indifferent about this.,neutral,#meh,Twitter
+Truly satisfied.,positive,#happy,WhatsApp
+Never buy this product.,negative,#bad,LinkedIn
+Indifferent about this.,neutral,#soSo,TikTok
+Truly dissatisfied.,negative,#disappointed,Facebook
+"Not good, not bad.",neutral,#fine,Facebook
+Everything is perfect.,positive,#positivevibes,Instagram
+Feeling neutral.,neutral,#normal,Snapchat
+Highly recommend this product.,positive,#fantastic,Instagram
+Indifferent about this.,neutral,#neutral,Discord
+Simply the best.,positive,#blessed,Discord
+Couldn't be worse.,negative,#bad,LinkedIn
+This is standard.,neutral,#normal,Twitter
+Totally recommend this!,positive,#grateful,Reddit
+Never buy this product.,negative,#worst,Twitter
+Truly satisfied.,positive,#love,Instagram
+Feeling frustrated.,negative,#frustrated,LinkedIn
+This is acceptable.,neutral,#neutral,TikTok
+Feeling great today.,positive,#positivevibes,Twitter
+Never buy this product.,negative,#negativevibes,Telegram
+Neither like nor dislike.,neutral,#okay,Snapchat
+Truly satisfied.,positive,#happy,Instagram
+Average experience.,neutral,#fine,Facebook
+Simply the best.,positive,#positivevibes,Instagram
+"Meh, it's fine.",neutral,#fine,Telegram
+I love this!,positive,#grateful,LinkedIn
+Couldn't be worse.,negative,#angry,Discord
+This is acceptable.,neutral,#average,Twitter
+Fairly average.,neutral,#normal,Twitter
+Truly satisfied.,positive,#awesome,TikTok
+This is horrible!,negative,#disappointed,Facebook
+Feeling neutral.,neutral,#okay,WhatsApp
+Excellent service.,positive,#love,Telegram
+Poor service.,negative,#bad,Facebook
+Nothing special.,neutral,#neutral,LinkedIn
+So happy with the results!,positive,#happy,Reddit
+Simply the worst.,negative,#disappointed,Instagram
+Neither like nor dislike.,neutral,#soSo,Instagram
+Everything is perfect.,positive,#awesome,Discord
+Never buy this product.,negative,#disappointed,WhatsApp
+This is typical.,neutral,#soSo,Instagram
+Truly satisfied.,positive,#positivevibes,WhatsApp
+Very disappointed.,negative,#angry,Twitter
+This is acceptable.,neutral,#normal,Snapchat
+This is awesome!,positive,#love,Facebook
+No complaints.,neutral,#fine,LinkedIn
+Enjoying every moment.,positive,#grateful,Facebook
+This is horrible!,negative,#worst,LinkedIn
+Indifferent about this.,neutral,#average,Reddit
+Simply the best.,positive,#awesome,Telegram
+Would not recommend.,negative,#disappointed,Reddit
+It's alright.,neutral,#meh,Reddit
+I love this!,positive,#fantastic,LinkedIn
+So upset with the results.,negative,#negativevibes,Facebook
+This is typical.,neutral,#fine,TikTok
+This is amazing!,positive,#grateful,TikTok
+Such a pain to use this.,negative,#frustrated,Discord
+I'm very pleased.,positive,#fantastic,Discord
+Feeling negative vibes.,negative,#sad,WhatsApp
+Neither like nor dislike.,neutral,#meh,Discord
+Simply the best.,positive,#grateful,Twitter
+I have no strong feelings.,neutral,#normal,Discord
+Everything went wrong.,negative,#fail,TikTok
+Just another day.,neutral,#indifferent,Telegram
+Simply the best.,positive,#awesome,Facebook
+Never buy this product.,negative,#bad,Discord
+Enjoying every moment.,positive,#blessed,LinkedIn
+Truly dissatisfied.,negative,#frustrated,TikTok
+Enjoying every moment.,positive,#love,Snapchat
+Truly dissatisfied.,negative,#frustrated,Telegram
+Neither like nor dislike.,neutral,#neutral,Twitter
+Feeling positive vibes.,positive,#love,Twitter
+Feeling frustrated.,negative,#sad,Snapchat
+Neither like nor dislike.,neutral,#fine,TikTok
+So happy with the results!,positive,#happy,Twitter
+Very disappointed.,negative,#disappointed,Twitter
+I'm very pleased.,positive,#awesome,Instagram
+I'm very unhappy.,negative,#negativevibes,LinkedIn
+Nothing special.,neutral,#neutral,Telegram
+Everything is perfect.,positive,#joy,Twitter
+Everything went wrong.,negative,#angry,LinkedIn
+Normal day.,neutral,#neutral,Telegram
+So happy with the results!,positive,#fantastic,Twitter
+This makes me angry.,negative,#angry,TikTok
+Truly satisfied.,positive,#blessed,Twitter
+Fairly average.,neutral,#meh,Instagram
+Such a joy to use this.,positive,#happy,LinkedIn
+This is horrible!,negative,#fail,Twitter
+"Meh, it's fine.",neutral,#okay,WhatsApp
+Excellent service.,positive,#fantastic,Reddit
+Feeling frustrated.,negative,#frustrated,Discord
+It works.,neutral,#neutral,WhatsApp
+I love this!,positive,#positivevibes,Snapchat
+What a bad experience.,negative,#angry,Telegram
+Couldn't be happier.,positive,#grateful,Snapchat
+I'm very unhappy.,negative,#fail,Telegram
+"Meh, it's fine.",neutral,#normal,Reddit
+Totally recommend this!,positive,#awesome,Instagram
+Would not recommend.,negative,#sad,Discord
+This is typical.,neutral,#fine,LinkedIn
+Couldn't be happier.,positive,#grateful,Facebook
+I hate this.,negative,#frustrated,Instagram
+Indifferent about this.,neutral,#normal,Telegram
+I'm very unhappy.,negative,#worst,Snapchat
+I'm very pleased.,positive,#happy,Facebook
+Feeling negative vibes.,negative,#disappointed,WhatsApp
+Totally recommend this!,positive,#blessed,Facebook
+Simply the best.,positive,#grateful,Snapchat
+Absolutely awful.,negative,#frustrated,Reddit
+Normal day.,neutral,#indifferent,Reddit
+Would not recommend.,negative,#sad,WhatsApp
+Just another day.,neutral,#average,LinkedIn
+Simply the best.,positive,#awesome,Instagram
+What a bad experience.,negative,#bad,Snapchat
+I have no strong feelings.,neutral,#normal,Reddit
+Totally recommend this!,positive,#positivevibes,Telegram
+Absolutely awful.,negative,#frustrated,Discord
+Indifferent about this.,neutral,#meh,LinkedIn
+Truly satisfied.,positive,#positivevibes,Twitter
+Feeling negative vibes.,negative,#negativevibes,Facebook
+Feeling neutral.,neutral,#fine,Twitter
+Highly recommend this product.,positive,#grateful,Facebook
+Feeling frustrated.,negative,#worst,Facebook
+"Meh, it's fine.",neutral,#normal,Discord
+Everything is perfect.,positive,#blessed,Facebook
+This is horrible!,negative,#fail,Telegram
+Nothing to report.,neutral,#soSo,Instagram
+Enjoying every moment.,positive,#blessed,Facebook
+I'm very unhappy.,negative,#negativevibes,Twitter
+Just another day.,neutral,#meh,WhatsApp
+Highly recommend this product.,positive,#blessed,Snapchat
+Such a pain to use this.,negative,#worst,Reddit
+It works.,neutral,#fine,Facebook
+Feeling great today.,positive,#fantastic,Facebook
+Would not recommend.,negative,#worst,Reddit
+Normal day.,neutral,#soSo,Twitter
+Enjoying every moment.,positive,#joy,LinkedIn
+I'm very unhappy.,negative,#frustrated,Twitter
+It works.,neutral,#indifferent,Twitter
+I'm very pleased.,positive,#fantastic,Reddit
+Just another day.,neutral,#indifferent,TikTok
+Excellent service.,positive,#grateful,Reddit
+It's alright.,neutral,#fine,Snapchat
+This makes me smile.,positive,#positivevibes,TikTok
+Truly dissatisfied.,negative,#angry,Discord
+This is acceptable.,neutral,#normal,Reddit
+I love this!,positive,#awesome,Facebook
+Everything went wrong.,negative,#disappointed,WhatsApp
+Indifferent about this.,neutral,#soSo,WhatsApp
+This is amazing!,positive,#positivevibes,Facebook
+Poor service.,negative,#sad,WhatsApp
+Neither like nor dislike.,neutral,#soSo,Facebook
+This is amazing!,positive,#joy,TikTok
+Absolutely awful.,negative,#negativevibes,Telegram
+So happy with the results!,positive,#happy,Discord
+Everything went wrong.,negative,#frustrated,Twitter
+Neither like nor dislike.,neutral,#indifferent,Twitter
+What a fantastic experience.,positive,#fantastic,WhatsApp
+Simply the worst.,negative,#sad,Snapchat
+Indifferent about this.,neutral,#fine,Facebook
+I love this!,positive,#joy,Telegram
+Very disappointed.,negative,#frustrated,Telegram
+This makes me smile.,positive,#positivevibes,Facebook
+Truly dissatisfied.,negative,#disappointed,WhatsApp
+"Not good, not bad.",neutral,#meh,Snapchat
+Feeling positive vibes.,positive,#fantastic,Snapchat
+Worst day ever.,negative,#sad,Twitter
+So-so experience.,neutral,#average,LinkedIn
+Excellent service.,positive,#fantastic,Instagram
+Worst day ever.,negative,#sad,LinkedIn
+So-so experience.,neutral,#fine,Twitter
+Feeling positive vibes.,positive,#blessed,Discord
+Never buy this product.,negative,#negativevibes,WhatsApp
+Such a joy to use this.,positive,#fantastic,Instagram
+Fairly average.,neutral,#neutral,Twitter
+Simply the best.,positive,#positivevibes,TikTok
+This is terrible.,negative,#worst,Instagram
+Feeling frustrated.,negative,#fail,Reddit
+Just another day.,neutral,#normal,WhatsApp
+Absolutely awful.,negative,#frustrated,Twitter
+"Not good, not bad.",neutral,#neutral,Reddit
+Everything is perfect.,positive,#blessed,Twitter
+Absolutely awful.,negative,#disappointed,Snapchat
+Nothing special.,neutral,#indifferent,Reddit
+Couldn't be happier.,positive,#awesome,TikTok
+Feeling negative vibes.,negative,#angry,Facebook
+What a fantastic experience.,positive,#blessed,Snapchat
+Worst day ever.,negative,#bad,Reddit
+This is typical.,neutral,#okay,Reddit
+So happy with the results!,positive,#grateful,Instagram
+Worst day ever.,negative,#negativevibes,Telegram
+"Not good, not bad.",neutral,#indifferent,Discord
+So happy with the results!,positive,#awesome,Instagram
+Would not recommend.,negative,#frustrated,Telegram
+Feeling neutral.,neutral,#neutral,WhatsApp
+Best day ever!,positive,#joy,Snapchat
+Absolutely awful.,negative,#fail,LinkedIn
+This is typical.,neutral,#okay,Discord
+Truly satisfied.,positive,#blessed,Snapchat
+Everything went wrong.,negative,#fail,Telegram
+Couldn't be happier.,positive,#awesome,Snapchat
+I hate this.,negative,#bad,Telegram
+This is standard.,neutral,#okay,Facebook
+Couldn't be happier.,positive,#grateful,TikTok
+Such a pain to use this.,negative,#angry,Reddit
+Highly recommend this product.,positive,#joy,Discord
+Such a pain to use this.,negative,#sad,TikTok
+Would not recommend.,negative,#frustrated,Discord
+Feeling neutral.,neutral,#average,Discord
+Totally recommend this!,positive,#love,WhatsApp
+This is horrible!,negative,#sad,Discord
+Highly recommend this product.,positive,#fantastic,LinkedIn
+Would not recommend.,negative,#sad,Instagram
+I love this!,positive,#fantastic,TikTok
+I hate this.,negative,#disappointed,Discord
+Normal day.,neutral,#soSo,Discord
+I love this!,positive,#blessed,Discord
+Truly dissatisfied.,negative,#worst,Telegram
+This is standard.,neutral,#fine,Discord
+What a fantastic experience.,positive,#positivevibes,Reddit
+Couldn't be worse.,negative,#disappointed,LinkedIn
+Feeling neutral.,neutral,#indifferent,Reddit
+Simply the best.,positive,#grateful,Discord
+No complaints.,neutral,#soSo,Facebook
+Couldn't be happier.,positive,#joy,WhatsApp
+It works.,neutral,#meh,WhatsApp
+Excellent service.,positive,#positivevibes,LinkedIn
+Fairly average.,neutral,#normal,LinkedIn
+Totally recommend this!,positive,#blessed,Twitter
+What a bad experience.,negative,#negativevibes,Discord
+Feeling neutral.,neutral,#okay,Twitter
+Feeling positive vibes.,positive,#happy,TikTok
+Worst day ever.,negative,#bad,LinkedIn
+Absolutely wonderful!,positive,#grateful,Twitter
+Very disappointed.,negative,#fail,Telegram
+This is acceptable.,neutral,#soSo,Snapchat
+Couldn't be happier.,positive,#grateful,Reddit
+It's okay.,neutral,#neutral,Telegram
+Worst day ever.,negative,#sad,Discord
+Average experience.,neutral,#meh,Facebook
+Totally recommend this!,positive,#positivevibes,Discord
+Simply the worst.,negative,#bad,Twitter
+Excellent service.,positive,#grateful,Instagram
+This is standard.,neutral,#normal,Snapchat
+Truly satisfied.,positive,#joy,Snapchat
+Couldn't be worse.,negative,#frustrated,Snapchat
+Average experience.,neutral,#neutral,Discord
+Everything went wrong.,negative,#worst,LinkedIn
+Normal day.,neutral,#fine,WhatsApp
+Very disappointed.,negative,#negativevibes,Facebook
+I love this!,positive,#blessed,Twitter
+Never buy this product.,negative,#frustrated,Snapchat
+It works.,neutral,#meh,LinkedIn
+This is amazing!,positive,#blessed,Instagram
+Such a pain to use this.,negative,#worst,Facebook
+Everything is perfect.,positive,#happy,Twitter
+Very disappointed.,negative,#bad,Snapchat
+Fairly average.,neutral,#average,LinkedIn
+Absolutely wonderful!,positive,#awesome,Reddit
+Very disappointed.,negative,#angry,LinkedIn
+Normal day.,neutral,#okay,Instagram
+Absolutely wonderful!,positive,#love,Reddit
+Simply the worst.,negative,#negativevibes,Reddit
+This is acceptable.,neutral,#fine,TikTok
+Everything went wrong.,negative,#disappointed,TikTok
+Just another day.,neutral,#fine,Facebook
+Totally recommend this!,positive,#love,Discord
+Fairly average.,neutral,#neutral,Facebook
+Such a pain to use this.,negative,#fail,Facebook
+I have no strong feelings.,neutral,#okay,Facebook
+Feeling positive vibes.,positive,#fantastic,Instagram
+So upset with the results.,negative,#negativevibes,Snapchat
+Feeling neutral.,neutral,#indifferent,Facebook
+This is awesome!,positive,#positivevibes,WhatsApp
+It's okay.,neutral,#soSo,TikTok
+Simply the best.,positive,#love,Snapchat
+Everything went wrong.,negative,#negativevibes,LinkedIn
+So-so experience.,neutral,#meh,Telegram
+This is horrible!,negative,#worst,WhatsApp
+Indifferent about this.,neutral,#soSo,Discord
+This is amazing!,positive,#positivevibes,Reddit
+So upset with the results.,negative,#sad,TikTok
+Nothing special.,neutral,#normal,Instagram
+Everything is perfect.,positive,#happy,Instagram
+Feeling frustrated.,negative,#sad,Instagram
+This is acceptable.,neutral,#soSo,Facebook
+I'm very pleased.,positive,#grateful,Snapchat
+Poor service.,negative,#angry,WhatsApp
+This is standard.,neutral,#indifferent,TikTok
+Excellent service.,positive,#joy,LinkedIn
+I love this!,positive,#blessed,Telegram
+Feeling negative vibes.,negative,#negativevibes,Telegram
+Nothing to report.,neutral,#meh,Reddit
+What a fantastic experience.,positive,#joy,Facebook
+Just another day.,neutral,#normal,LinkedIn
+This is awesome!,positive,#positivevibes,Telegram
+Feeling negative vibes.,negative,#bad,Reddit
+Average experience.,neutral,#meh,Instagram
+Such a joy to use this.,positive,#love,Snapchat
+Would not recommend.,negative,#angry,Discord
+Nothing to report.,neutral,#neutral,LinkedIn
+This is horrible!,negative,#angry,Reddit
+"Not good, not bad.",neutral,#soSo,Instagram
+Enjoying every moment.,positive,#blessed,Discord
+No complaints.,neutral,#okay,TikTok
+Simply the best.,positive,#awesome,Discord
+What a bad experience.,negative,#worst,Instagram
+This is typical.,neutral,#meh,TikTok
+This is typical.,neutral,#average,Telegram
+Nothing special.,neutral,#meh,Discord
+What a fantastic experience.,positive,#happy,Discord
+I hate this.,negative,#fail,LinkedIn
+Fairly average.,neutral,#soSo,LinkedIn
+Highly recommend this product.,positive,#blessed,Discord
+Everything went wrong.,negative,#fail,Instagram
+"Not good, not bad.",neutral,#normal,Discord
+So happy with the results!,positive,#love,Facebook
+Couldn't be worse.,negative,#sad,Instagram
+Such a joy to use this.,positive,#grateful,Instagram
+This is terrible.,negative,#fail,TikTok
+Nothing special.,neutral,#okay,Instagram
+This is amazing!,positive,#awesome,Facebook
+Just another day.,neutral,#okay,Discord
+Such a joy to use this.,positive,#happy,Reddit
+Absolutely awful.,negative,#disappointed,WhatsApp
+This is amazing!,positive,#blessed,LinkedIn
+Feeling negative vibes.,negative,#frustrated,Instagram
+Simply the best.,positive,#positivevibes,WhatsApp
+Everything went wrong.,negative,#bad,Facebook
+It's alright.,neutral,#normal,Reddit
+Feeling great today.,positive,#blessed,Discord
+This is terrible.,negative,#negativevibes,Telegram
+This is acceptable.,neutral,#fine,Twitter
+Everything went wrong.,negative,#angry,TikTok
+This is typical.,neutral,#soSo,Twitter
+Simply the best.,positive,#love,Instagram
+Would not recommend.,negative,#worst,Snapchat
+"Meh, it's fine.",neutral,#soSo,WhatsApp
+I'm very pleased.,positive,#blessed,TikTok
+What a bad experience.,negative,#angry,LinkedIn
+Average experience.,neutral,#normal,Facebook
+Enjoying every moment.,positive,#grateful,Reddit
+This makes me angry.,negative,#frustrated,Reddit
+Feeling neutral.,neutral,#fine,Snapchat
+I'm very unhappy.,negative,#sad,Snapchat
+Neither like nor dislike.,neutral,#meh,Instagram
+Worst day ever.,negative,#frustrated,LinkedIn
+It's alright.,neutral,#fine,Reddit
+Best day ever!,positive,#fantastic,LinkedIn
+Feeling negative vibes.,negative,#worst,WhatsApp
+Feeling great today.,positive,#happy,TikTok
+Worst day ever.,negative,#bad,Instagram
+Feeling great today.,positive,#positivevibes,Discord
+Never buy this product.,negative,#frustrated,WhatsApp
+This makes me smile.,positive,#joy,Telegram
+Very disappointed.,negative,#worst,TikTok
+This is standard.,neutral,#soSo,Snapchat
+Truly satisfied.,positive,#fantastic,WhatsApp
+It's alright.,neutral,#indifferent,LinkedIn
+Excellent service.,positive,#awesome,LinkedIn
+Nothing special.,neutral,#okay,Twitter
+This makes me smile.,positive,#positivevibes,Telegram
+I hate this.,negative,#worst,Telegram
+Feeling neutral.,neutral,#fine,LinkedIn
+Nothing to report.,neutral,#normal,Discord
+I'm very pleased.,positive,#happy,Snapchat
+This is horrible!,negative,#worst,Telegram
+Normal day.,neutral,#meh,Twitter
+Worst day ever.,negative,#sad,Instagram
+Poor service.,negative,#negativevibes,Telegram
+No complaints.,neutral,#okay,Twitter
+So upset with the results.,negative,#worst,WhatsApp
+No complaints.,neutral,#normal,Reddit
+This is acceptable.,neutral,#okay,Reddit
+Truly dissatisfied.,negative,#sad,Instagram
+Feeling great today.,positive,#blessed,LinkedIn
+Truly dissatisfied.,negative,#worst,Instagram
+Nothing to report.,neutral,#okay,Reddit
+Absolutely wonderful!,positive,#happy,Facebook
+Highly recommend this product.,positive,#joy,Snapchat
+This is terrible.,negative,#disappointed,Telegram
+"Not good, not bad.",neutral,#indifferent,LinkedIn
+This is awesome!,positive,#love,Twitter
+This is horrible!,negative,#bad,Telegram
+Couldn't be happier.,positive,#positivevibes,Discord
+Couldn't be worse.,negative,#bad,Reddit
+I love this!,positive,#positivevibes,LinkedIn
+This is terrible.,negative,#bad,Facebook
+It's okay.,neutral,#neutral,Snapchat
+Feeling positive vibes.,positive,#positivevibes,Reddit
+Simply the best.,positive,#blessed,Reddit
+Poor service.,negative,#sad,Telegram
+It's alright.,neutral,#meh,Telegram
+Feeling great today.,positive,#love,WhatsApp
+This is horrible!,negative,#sad,Facebook
+Fairly average.,neutral,#indifferent,Instagram
+Totally recommend this!,positive,#happy,Instagram
+Feeling negative vibes.,negative,#sad,Instagram
+So-so experience.,neutral,#average,Facebook
+Excellent service.,positive,#blessed,Twitter
+Fairly average.,neutral,#soSo,Twitter
+What a fantastic experience.,positive,#fantastic,Snapchat
+Feeling neutral.,neutral,#neutral,Telegram
+Simply the best.,positive,#awesome,Twitter
+I'm very unhappy.,negative,#worst,Telegram
+Indifferent about this.,neutral,#okay,WhatsApp
+Highly recommend this product.,positive,#awesome,Snapchat
+Couldn't be worse.,negative,#negativevibes,Snapchat
+Neither like nor dislike.,neutral,#soSo,Reddit
+Worst day ever.,negative,#angry,Snapchat
+It's alright.,neutral,#indifferent,Facebook
+Truly dissatisfied.,negative,#frustrated,LinkedIn
+Average experience.,neutral,#normal,Discord
+Nothing to report.,neutral,#indifferent,Snapchat
+Nothing to report.,neutral,#neutral,Instagram
+Everything is perfect.,positive,#blessed,Reddit
+Absolutely awful.,negative,#bad,Telegram
+This is standard.,neutral,#neutral,Snapchat
+Feeling positive vibes.,positive,#joy,Telegram
+Neither like nor dislike.,neutral,#fine,WhatsApp
+"Not good, not bad.",neutral,#soSo,Facebook
+Everything went wrong.,negative,#worst,Reddit
+Neither like nor dislike.,neutral,#okay,Facebook
+I love this!,positive,#love,Reddit
+This is terrible.,negative,#frustrated,WhatsApp
+Feeling great today.,positive,#joy,Facebook
+What a bad experience.,negative,#disappointed,Reddit
+Nothing special.,neutral,#soSo,Facebook
+Couldn't be happier.,positive,#positivevibes,Instagram
+So upset with the results.,negative,#bad,Facebook
+I have no strong feelings.,neutral,#normal,Snapchat
+So happy with the results!,positive,#positivevibes,LinkedIn
+So upset with the results.,negative,#worst,Snapchat
+This is standard.,neutral,#normal,LinkedIn
+Simply the best.,positive,#happy,Facebook
+"Meh, it's fine.",neutral,#neutral,Snapchat
+What a fantastic experience.,positive,#fantastic,Facebook
+So upset with the results.,negative,#frustrated,Telegram
+What a fantastic experience.,positive,#awesome,TikTok
+Everything went wrong.,negative,#fail,Reddit
+Average experience.,neutral,#normal,Telegram
+Excellent service.,positive,#love,WhatsApp
+Feeling negative vibes.,negative,#angry,Instagram
+Average experience.,neutral,#average,WhatsApp
+Totally recommend this!,positive,#fantastic,Discord
+I hate this.,negative,#worst,Discord
+Never buy this product.,negative,#disappointed,Telegram
+Simply the best.,positive,#happy,Twitter
+I hate this.,negative,#angry,Reddit
+Enjoying every moment.,positive,#positivevibes,TikTok
+Never buy this product.,negative,#worst,Telegram
+This is standard.,neutral,#neutral,Facebook
+I hate this.,negative,#bad,Facebook
+Feeling positive vibes.,positive,#love,TikTok
+Simply the worst.,negative,#angry,Instagram
+"Meh, it's fine.",neutral,#neutral,Facebook
+Totally recommend this!,positive,#awesome,Telegram
+Never buy this product.,negative,#worst,Facebook
+Just another day.,neutral,#average,Reddit
+Such a joy to use this.,positive,#love,Facebook
+"Not good, not bad.",neutral,#fine,Snapchat
+Feeling great today.,positive,#fantastic,Snapchat
+Couldn't be worse.,negative,#disappointed,WhatsApp
+Average experience.,neutral,#soSo,Reddit
+It's alright.,neutral,#fine,Instagram
+This is amazing!,positive,#blessed,WhatsApp
+It works.,neutral,#meh,Snapchat
+Simply the best.,positive,#love,WhatsApp
+Very disappointed.,negative,#angry,Discord
+Just another day.,neutral,#average,Telegram
+So upset with the results.,negative,#sad,Twitter
+No complaints.,neutral,#indifferent,Telegram
+Couldn't be happier.,positive,#awesome,Telegram
+Very disappointed.,negative,#fail,Discord
+It's okay.,neutral,#soSo,Facebook
+What a fantastic experience.,positive,#love,WhatsApp
+I'm very unhappy.,negative,#frustrated,Discord
+So-so experience.,neutral,#neutral,Snapchat
+I'm very pleased.,positive,#grateful,Twitter
+"Not good, not bad.",neutral,#meh,Twitter
+I have no strong feelings.,neutral,#fine,Instagram
+This makes me smile.,positive,#joy,Snapchat
+Just another day.,neutral,#okay,Snapchat
+This makes me smile.,positive,#positivevibes,Discord
+Feeling negative vibes.,negative,#disappointed,Facebook
+I have no strong feelings.,neutral,#soSo,Discord
+What a fantastic experience.,positive,#love,LinkedIn
+Never buy this product.,negative,#bad,Telegram
+Indifferent about this.,neutral,#fine,TikTok
+This is awesome!,positive,#happy,Telegram
+Nothing to report.,neutral,#neutral,Reddit
+I'm very pleased.,positive,#awesome,Facebook
+Such a pain to use this.,negative,#bad,LinkedIn
+Nothing to report.,neutral,#meh,WhatsApp
+Feeling negative vibes.,negative,#sad,LinkedIn
+Enjoying every moment.,positive,#happy,TikTok
+Normal day.,neutral,#meh,Telegram
+This is awesome!,positive,#joy,WhatsApp
+I hate this.,negative,#bad,Twitter
+Just another day.,neutral,#okay,Twitter
+This is horrible!,negative,#negativevibes,Twitter
+This is typical.,neutral,#average,Instagram
+Feeling positive vibes.,positive,#happy,Telegram
+I hate this.,negative,#sad,Discord
+Nothing special.,neutral,#meh,Telegram
+Truly satisfied.,positive,#love,Snapchat
+No complaints.,neutral,#average,Reddit
+Feeling positive vibes.,positive,#joy,Discord
+Feeling negative vibes.,negative,#disappointed,Instagram
+Nothing special.,neutral,#fine,Telegram
+Absolutely wonderful!,positive,#awesome,Facebook
+Simply the worst.,negative,#bad,Snapchat
+It's alright.,neutral,#meh,LinkedIn
+This is awesome!,positive,#positivevibes,LinkedIn
+This is typical.,neutral,#neutral,WhatsApp
+Very disappointed.,negative,#frustrated,TikTok
+So-so experience.,neutral,#normal,TikTok
+This is awesome!,positive,#positivevibes,Snapchat
+Would not recommend.,negative,#worst,Discord
+This is amazing!,positive,#positivevibes,Telegram
+So upset with the results.,negative,#negativevibes,TikTok
+It works.,neutral,#average,Instagram
+Indifferent about this.,neutral,#normal,Snapchat
+It's alright.,neutral,#neutral,Facebook
+Excellent service.,positive,#awesome,Facebook
+Simply the worst.,negative,#negativevibes,Discord
+Simply the worst.,negative,#frustrated,WhatsApp
+So-so experience.,neutral,#meh,LinkedIn
+This is awesome!,positive,#fantastic,Instagram
+I hate this.,negative,#disappointed,LinkedIn
+This is standard.,neutral,#okay,Telegram
+Feeling great today.,positive,#fantastic,Telegram
+What a bad experience.,negative,#disappointed,LinkedIn
+This is typical.,neutral,#soSo,Telegram
+I love this!,positive,#awesome,Reddit
+Couldn't be happier.,positive,#positivevibes,Reddit
+This makes me angry.,negative,#negativevibes,WhatsApp
+It's okay.,neutral,#fine,Discord
+I'm very pleased.,positive,#fantastic,Telegram
+Worst day ever.,negative,#frustrated,Snapchat
+It's okay.,neutral,#neutral,Facebook
+Feeling neutral.,neutral,#neutral,TikTok
+Feeling frustrated.,negative,#bad,Discord
+Feeling great today.,positive,#fantastic,Reddit
+I hate this.,negative,#fail,Telegram
+Average experience.,neutral,#neutral,Snapchat
+Enjoying every moment.,positive,#grateful,Telegram
+Best day ever!,positive,#fantastic,TikTok
+So upset with the results.,negative,#angry,TikTok
+Indifferent about this.,neutral,#average,Telegram
+Highly recommend this product.,positive,#happy,WhatsApp
+This is horrible!,negative,#worst,Facebook
+What a fantastic experience.,positive,#blessed,TikTok
+Neither like nor dislike.,neutral,#average,Instagram
+Feeling great today.,positive,#love,Facebook
+Truly dissatisfied.,negative,#disappointed,Reddit
+This is acceptable.,neutral,#average,Instagram
+Enjoying every moment.,positive,#awesome,Snapchat
+It's alright.,neutral,#meh,Instagram
+Poor service.,negative,#bad,LinkedIn
+Nothing special.,neutral,#normal,Facebook
+This is awesome!,positive,#awesome,Discord
+What a bad experience.,negative,#frustrated,Facebook
+So-so experience.,neutral,#neutral,Facebook
+Best day ever!,positive,#joy,TikTok
+Simply the worst.,negative,#sad,Telegram
+Fairly average.,neutral,#normal,TikTok
+Such a pain to use this.,negative,#bad,Telegram
+Average experience.,neutral,#average,Reddit
+This is amazing!,positive,#happy,TikTok
+This is terrible.,negative,#negativevibes,WhatsApp
+Neither like nor dislike.,neutral,#meh,WhatsApp
+Best day ever!,positive,#grateful,Instagram
+I'm very unhappy.,negative,#bad,Facebook
+Feeling great today.,positive,#positivevibes,Reddit
+Feeling frustrated.,negative,#angry,Telegram
+This makes me angry.,negative,#fail,LinkedIn
+"Not good, not bad.",neutral,#neutral,Instagram
+This is horrible!,negative,#frustrated,LinkedIn
+It's okay.,neutral,#okay,Reddit
+Highly recommend this product.,positive,#love,Twitter
+This makes me angry.,negative,#frustrated,LinkedIn
+It works.,neutral,#neutral,LinkedIn
+Enjoying every moment.,positive,#fantastic,Snapchat
+Simply the worst.,negative,#negativevibes,WhatsApp
+I love this!,positive,#fantastic,Twitter
+Just another day.,neutral,#normal,Telegram
+Feeling great today.,positive,#blessed,Twitter
+This is terrible.,negative,#fail,Snapchat
+Fairly average.,neutral,#average,Instagram
+"Not good, not bad.",neutral,#average,Instagram
+Simply the best.,positive,#fantastic,Discord
+Neither like nor dislike.,neutral,#normal,Reddit
+Excellent service.,positive,#awesome,Snapchat
+So upset with the results.,negative,#worst,LinkedIn
+Fairly average.,neutral,#okay,Instagram
+What a fantastic experience.,positive,#awesome,Telegram
+I hate this.,negative,#negativevibes,TikTok
+"Meh, it's fine.",neutral,#soSo,Snapchat
+Best day ever!,positive,#happy,LinkedIn
+"Meh, it's fine.",neutral,#fine,Facebook
+So upset with the results.,negative,#bad,LinkedIn
+Normal day.,neutral,#average,Facebook
+Would not recommend.,negative,#angry,Twitter
+This is standard.,neutral,#average,WhatsApp
+Enjoying every moment.,positive,#happy,LinkedIn
+What a bad experience.,negative,#negativevibes,Telegram
+Indifferent about this.,neutral,#neutral,LinkedIn
+Absolutely wonderful!,positive,#blessed,TikTok
+Feeling neutral.,neutral,#meh,LinkedIn
+I love this!,positive,#grateful,Snapchat
+Highly recommend this product.,positive,#joy,Telegram
+Couldn't be worse.,negative,#sad,Discord
+Very disappointed.,negative,#fail,LinkedIn
+I'm very unhappy.,negative,#angry,Reddit
+I have no strong feelings.,neutral,#soSo,Telegram
+Enjoying every moment.,positive,#blessed,Snapchat
+Feeling neutral.,neutral,#fine,Discord
+Absolutely wonderful!,positive,#positivevibes,Telegram
+Couldn't be worse.,negative,#bad,WhatsApp
+Best day ever!,positive,#grateful,Facebook
+Average experience.,neutral,#average,Twitter
+Absolutely wonderful!,positive,#love,Telegram
+Couldn't be worse.,negative,#angry,Telegram
+It works.,neutral,#fine,Telegram
+Best day ever!,positive,#happy,Telegram
+This is horrible!,negative,#negativevibes,Reddit
+It's alright.,neutral,#meh,Snapchat
+Absolutely wonderful!,positive,#happy,Twitter
+This is horrible!,negative,#sad,Reddit
+Normal day.,neutral,#soSo,TikTok
+Couldn't be worse.,negative,#worst,Snapchat
+Simply the worst.,negative,#fail,Reddit
+Average experience.,neutral,#okay,Facebook
+I'm very unhappy.,negative,#fail,LinkedIn
+Indifferent about this.,neutral,#neutral,TikTok
+Highly recommend this product.,positive,#fantastic,Facebook
+Feeling frustrated.,negative,#fail,Discord
+This is acceptable.,neutral,#okay,Facebook
+I love this!,positive,#awesome,Instagram
+Truly dissatisfied.,negative,#bad,Instagram
+Feeling positive vibes.,positive,#blessed,Reddit
+I'm very unhappy.,negative,#sad,TikTok
+"Not good, not bad.",neutral,#average,WhatsApp
+Couldn't be worse.,negative,#fail,WhatsApp
+Just another day.,neutral,#soSo,Snapchat
+Absolutely wonderful!,positive,#positivevibes,Discord
+Such a pain to use this.,negative,#fail,WhatsApp
+Just another day.,neutral,#soSo,LinkedIn
+Absolutely wonderful!,positive,#awesome,Instagram
+This makes me angry.,negative,#frustrated,TikTok
+Feeling neutral.,neutral,#neutral,Snapchat
+This is terrible.,negative,#disappointed,Twitter
+This is amazing!,positive,#blessed,TikTok
+Feeling negative vibes.,negative,#angry,Telegram
+This is standard.,neutral,#indifferent,WhatsApp
+I hate this.,negative,#frustrated,WhatsApp
+Nothing to report.,neutral,#meh,Telegram
+So happy with the results!,positive,#blessed,Facebook
+Feeling frustrated.,negative,#negativevibes,TikTok
+Neither like nor dislike.,neutral,#average,Snapchat
+Simply the best.,positive,#joy,Reddit
+Average experience.,neutral,#normal,Snapchat
+Truly dissatisfied.,negative,#disappointed,LinkedIn
+So-so experience.,neutral,#indifferent,Twitter
+I love this!,positive,#happy,Instagram
+Such a pain to use this.,negative,#bad,Discord
+Indifferent about this.,neutral,#indifferent,Instagram
+Simply the best.,positive,#blessed,Facebook
+Worst day ever.,negative,#worst,Facebook
+Feeling great today.,positive,#grateful,Instagram
+Couldn't be worse.,negative,#negativevibes,Instagram
+Just another day.,neutral,#neutral,Telegram
+So happy with the results!,positive,#grateful,Discord
+It works.,neutral,#indifferent,TikTok
+Excellent service.,positive,#awesome,Telegram
+Couldn't be worse.,negative,#bad,Twitter
+It works.,neutral,#soSo,Facebook
+Such a joy to use this.,positive,#grateful,Reddit
+This is standard.,neutral,#meh,Telegram
+This is typical.,neutral,#soSo,LinkedIn
+Such a joy to use this.,positive,#blessed,Facebook
+This is terrible.,negative,#fail,LinkedIn
+Poor service.,negative,#sad,Facebook
+Such a joy to use this.,positive,#positivevibes,Reddit
+Nothing to report.,neutral,#fine,TikTok
+Couldn't be happier.,positive,#blessed,Snapchat
+Absolutely awful.,negative,#frustrated,WhatsApp
+Couldn't be happier.,positive,#happy,LinkedIn
+This is terrible.,negative,#worst,Discord
+This is amazing!,positive,#positivevibes,Discord
+Couldn't be worse.,negative,#frustrated,TikTok
+No complaints.,neutral,#neutral,Snapchat
+So happy with the results!,positive,#blessed,Snapchat
+I love this!,positive,#happy,Reddit
+Simply the worst.,negative,#negativevibes,Facebook
+"Meh, it's fine.",neutral,#indifferent,LinkedIn
+Absolutely wonderful!,positive,#grateful,Instagram
+Fairly average.,neutral,#neutral,Discord
+Truly satisfied.,positive,#blessed,WhatsApp
+This is horrible!,negative,#negativevibes,Discord
+This is amazing!,positive,#positivevibes,Twitter
+No complaints.,neutral,#average,Facebook
+This makes me smile.,positive,#grateful,TikTok
+Everything went wrong.,negative,#angry,WhatsApp
+Simply the best.,positive,#fantastic,LinkedIn
+Excellent service.,positive,#joy,Snapchat
+Everything is perfect.,positive,#grateful,Reddit
+Very disappointed.,negative,#sad,Discord
+No complaints.,neutral,#indifferent,Instagram
+I hate this.,negative,#angry,Facebook
+Indifferent about this.,neutral,#neutral,Instagram
+So happy with the results!,positive,#love,LinkedIn
+Never buy this product.,negative,#bad,Facebook
+Feeling positive vibes.,positive,#happy,Facebook
+This is horrible!,negative,#sad,Snapchat
+So-so experience.,neutral,#normal,Reddit
+Highly recommend this product.,positive,#joy,Reddit
+This makes me angry.,negative,#angry,LinkedIn
+I'm very pleased.,positive,#happy,LinkedIn
+Simply the best.,positive,#grateful,Telegram
+I have no strong feelings.,neutral,#fine,Reddit
+Enjoying every moment.,positive,#awesome,Telegram
+Feeling positive vibes.,positive,#awesome,Instagram
+Would not recommend.,negative,#fail,Facebook
+Fairly average.,neutral,#okay,TikTok
+Feeling positive vibes.,positive,#awesome,WhatsApp
+This makes me angry.,negative,#negativevibes,Twitter
+Indifferent about this.,neutral,#meh,Discord
+Highly recommend this product.,positive,#happy,Reddit
+This makes me angry.,negative,#angry,Discord
+No complaints.,neutral,#normal,WhatsApp
+Best day ever!,positive,#blessed,Reddit
+I have no strong feelings.,neutral,#soSo,Snapchat
+What a bad experience.,negative,#negativevibes,Snapchat
+This is standard.,neutral,#indifferent,LinkedIn
+What a fantastic experience.,positive,#love,Instagram
+Simply the best.,positive,#grateful,Facebook
+This is acceptable.,neutral,#meh,Reddit
+I'm very pleased.,positive,#grateful,Instagram
+Very disappointed.,negative,#fail,Instagram
+Just another day.,neutral,#soSo,TikTok
+Enjoying every moment.,positive,#blessed,Instagram
+Very disappointed.,negative,#sad,Snapchat
+"Not good, not bad.",neutral,#okay,Twitter
+Everything is perfect.,positive,#positivevibes,Reddit
+I'm very unhappy.,negative,#negativevibes,Facebook
+I'm very pleased.,positive,#joy,LinkedIn
+Truly dissatisfied.,negative,#negativevibes,Twitter
+So-so experience.,neutral,#okay,Discord
+I love this!,positive,#happy,LinkedIn
+So upset with the results.,negative,#fail,Discord
+It's okay.,neutral,#meh,Snapchat
+Feeling great today.,positive,#fantastic,Twitter
+Feeling frustrated.,negative,#bad,Snapchat
+Neither like nor dislike.,neutral,#normal,Twitter
+Enjoying every moment.,positive,#awesome,TikTok
+"Meh, it's fine.",neutral,#indifferent,Reddit
+Very disappointed.,negative,#bad,TikTok
+This makes me smile.,positive,#love,Discord
+So upset with the results.,negative,#frustrated,TikTok
+Such a joy to use this.,positive,#positivevibes,Twitter
+Feeling frustrated.,negative,#worst,Instagram
+This is typical.,neutral,#fine,Discord
+So upset with the results.,negative,#angry,Discord
+Nothing special.,neutral,#normal,WhatsApp
+This is amazing!,positive,#fantastic,LinkedIn
+Nothing to report.,neutral,#okay,WhatsApp
+Absolutely wonderful!,positive,#fantastic,Reddit
+Feeling frustrated.,negative,#worst,TikTok
+This makes me smile.,positive,#fantastic,Reddit
+I'm very unhappy.,negative,#disappointed,Twitter
+Fairly average.,neutral,#fine,Facebook
+Feeling frustrated.,negative,#fail,Instagram
+Average experience.,neutral,#average,Snapchat
+Poor service.,negative,#fail,WhatsApp
+Absolutely wonderful!,positive,#positivevibes,LinkedIn
+Poor service.,negative,#sad,TikTok
+Nothing to report.,neutral,#indifferent,Discord
+Feeling great today.,positive,#positivevibes,LinkedIn
+Simply the worst.,negative,#disappointed,Reddit
+This is standard.,neutral,#meh,Snapchat
+This is awesome!,positive,#awesome,Instagram
+Absolutely awful.,negative,#sad,Reddit
+Indifferent about this.,neutral,#fine,Instagram
+Simply the worst.,negative,#sad,Twitter
+Poor service.,negative,#negativevibes,Instagram
+"Not good, not bad.",neutral,#fine,Discord
+Totally recommend this!,positive,#positivevibes,Reddit
+It works.,neutral,#normal,Snapchat
+Would not recommend.,negative,#disappointed,Twitter
+It works.,neutral,#meh,Discord
+Simply the best.,positive,#grateful,Reddit
+Feeling negative vibes.,negative,#sad,Twitter
+This makes me smile.,positive,#love,WhatsApp
+This makes me angry.,negative,#disappointed,Twitter
+So-so experience.,neutral,#okay,Reddit
+This makes me smile.,positive,#happy,TikTok
+Feeling frustrated.,negative,#angry,Twitter
+Fairly average.,neutral,#indifferent,Twitter
+What a fantastic experience.,positive,#blessed,WhatsApp
+Just another day.,neutral,#average,Instagram
+This is awesome!,positive,#love,Telegram
+Simply the worst.,negative,#frustrated,LinkedIn
+This is acceptable.,neutral,#meh,LinkedIn
+Couldn't be happier.,positive,#positivevibes,WhatsApp
+Absolutely awful.,negative,#disappointed,Reddit
+This is typical.,neutral,#meh,Snapchat
+Simply the best.,positive,#blessed,TikTok
+Such a pain to use this.,negative,#bad,Facebook
+So-so experience.,neutral,#soSo,Discord
+This is amazing!,positive,#love,TikTok
+Feeling negative vibes.,negative,#sad,Discord
+Nothing to report.,neutral,#soSo,LinkedIn
+Feeling positive vibes.,positive,#fantastic,Reddit
+Couldn't be worse.,negative,#fail,Discord
+It works.,neutral,#average,LinkedIn
+I'm very pleased.,positive,#blessed,Discord
+This is terrible.,negative,#angry,LinkedIn
+Feeling negative vibes.,negative,#worst,Telegram
+This is amazing!,positive,#joy,Facebook
+Truly dissatisfied.,negative,#frustrated,Twitter
+No complaints.,neutral,#fine,Instagram
+This is amazing!,positive,#fantastic,Twitter
+Feeling frustrated.,negative,#angry,Discord
+This is acceptable.,neutral,#neutral,Instagram
+Truly satisfied.,positive,#awesome,LinkedIn
+Poor service.,negative,#disappointed,WhatsApp
+I'm very pleased.,positive,#joy,Discord
+It's alright.,neutral,#meh,WhatsApp
+Worst day ever.,negative,#negativevibes,LinkedIn
+So-so experience.,neutral,#soSo,Twitter
+Absolutely wonderful!,positive,#blessed,WhatsApp
+Would not recommend.,negative,#disappointed,Discord
+No complaints.,neutral,#okay,Telegram
+I'm very pleased.,positive,#love,Snapchat
+Poor service.,negative,#negativevibes,Facebook
+It's alright.,neutral,#neutral,Twitter
+Nothing to report.,neutral,#okay,Telegram
+What a fantastic experience.,positive,#blessed,Instagram
+Truly dissatisfied.,negative,#negativevibes,TikTok
+This is standard.,neutral,#indifferent,Discord
+Feeling great today.,positive,#love,Discord
+What a bad experience.,negative,#sad,Reddit
+What a fantastic experience.,positive,#grateful,WhatsApp
+This is terrible.,negative,#negativevibes,Instagram
+So happy with the results!,positive,#awesome,Snapchat
+What a bad experience.,negative,#angry,Snapchat
+Feeling negative vibes.,negative,#negativevibes,Twitter
+Everything is perfect.,positive,#fantastic,Snapchat
+This is horrible!,negative,#frustrated,TikTok
+It's okay.,neutral,#indifferent,TikTok
+Such a joy to use this.,positive,#love,LinkedIn
+Would not recommend.,negative,#disappointed,Telegram
+Neither like nor dislike.,neutral,#meh,Facebook
+What a bad experience.,negative,#frustrated,TikTok
+Feeling neutral.,neutral,#indifferent,Discord
+This makes me smile.,positive,#happy,Discord
+This is acceptable.,neutral,#okay,Telegram
+This is awesome!,positive,#happy,WhatsApp
+Everything went wrong.,negative,#bad,Snapchat
+What a fantastic experience.,positive,#happy,TikTok
+Simply the worst.,negative,#sad,Reddit
+Normal day.,neutral,#meh,Snapchat
+So happy with the results!,positive,#blessed,WhatsApp
+No complaints.,neutral,#meh,WhatsApp
+Neither like nor dislike.,neutral,#indifferent,TikTok
+Absolutely wonderful!,positive,#joy,Instagram
+This is standard.,neutral,#meh,TikTok
+Couldn't be happier.,positive,#awesome,LinkedIn
+I hate this.,negative,#fail,Reddit
+Absolutely wonderful!,positive,#joy,Reddit
+Poor service.,negative,#sad,Twitter
+I have no strong feelings.,neutral,#normal,WhatsApp
+Feeling great today.,positive,#positivevibes,Facebook
+Very disappointed.,negative,#sad,Instagram
+Just another day.,neutral,#fine,Instagram
+Excellent service.,positive,#fantastic,Twitter
+Couldn't be worse.,negative,#frustrated,WhatsApp
+Truly satisfied.,positive,#love,TikTok
+So upset with the results.,negative,#disappointed,Reddit
+Fairly average.,neutral,#fine,WhatsApp
+I'm very pleased.,positive,#fantastic,Instagram
+Everything went wrong.,negative,#frustrated,Discord
+Average experience.,neutral,#soSo,TikTok
+This is awesome!,positive,#love,Reddit
+This is typical.,neutral,#fine,Snapchat
+This is awesome!,positive,#joy,Facebook
+Would not recommend.,negative,#worst,Twitter
+Such a joy to use this.,positive,#grateful,TikTok
+I hate this.,negative,#worst,Twitter
+This is typical.,neutral,#average,Discord
+Everything is perfect.,positive,#happy,Reddit
+I'm very unhappy.,negative,#frustrated,LinkedIn
+Feeling neutral.,neutral,#soSo,WhatsApp
+Feeling negative vibes.,negative,#negativevibes,WhatsApp
+So upset with the results.,negative,#disappointed,Discord
+This makes me angry.,negative,#angry,Instagram
+So happy with the results!,positive,#grateful,Twitter
+I'm very unhappy.,negative,#angry,Instagram
+So-so experience.,neutral,#normal,LinkedIn
+This is awesome!,positive,#joy,Discord
+I'm very unhappy.,negative,#negativevibes,Reddit
+This is typical.,neutral,#indifferent,LinkedIn
+Best day ever!,positive,#joy,Facebook
+Feeling frustrated.,negative,#sad,Facebook
+It's okay.,neutral,#okay,Twitter
+This is amazing!,positive,#grateful,Snapchat
+Simply the worst.,negative,#bad,Facebook
+This is standard.,neutral,#meh,Twitter
+Everything is perfect.,positive,#awesome,Telegram
+It works.,neutral,#okay,LinkedIn
+What a bad experience.,negative,#bad,Discord
+This is standard.,neutral,#okay,Twitter
+Couldn't be happier.,positive,#awesome,Instagram
+This makes me angry.,negative,#bad,LinkedIn
+"Meh, it's fine.",neutral,#indifferent,Telegram
+This is awesome!,positive,#fantastic,Twitter
+This is typical.,neutral,#meh,Facebook
+Everything went wrong.,negative,#frustrated,Instagram
+Normal day.,neutral,#neutral,WhatsApp
+I hate this.,negative,#bad,Instagram
+Nothing to report.,neutral,#average,Twitter
+So happy with the results!,positive,#fantastic,WhatsApp
+Such a joy to use this.,positive,#love,Instagram
+Everything went wrong.,negative,#worst,Snapchat
+This is acceptable.,neutral,#normal,LinkedIn
